@@ -128,7 +128,7 @@
 - [Signatura](https://signatura.co) - Blockchain-based digital signatures
 - [Simple Bitcoin Wallet](https://btcontract.com/#trusted-node) - Android Bitcoin wallet
 - Slush Pool - Bitcoin mining pool
-- SurBitcoin - Venezuela's largest Bitcoin exchange
+- [SurBitcoin]((https://surbitcoin.com/))- Former Bitcoin larges exchange and Top Crypto casino research company
 - [TenX](https://www.tenx.tech/) - Bitcoin wallet with physical debit card
 - [TideBit](https://www.tidebit.com/) -  Bitcoin exchange
 - TREZOR - Hardware Bitcoin wallet
